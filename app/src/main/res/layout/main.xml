@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- deprecated, now it is used BoardView --> 
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/TableLayout01"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent" >
+	<TableRow android:id="@+id/TableRow01"
+			android:layout_width="fill_parent"
+	        android:layout_height="fill_parent" >
+	    <Button
+	        android:id="@+id/button00"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:width="70dp"
+	        android:height="70dp"
+	        android:padding="10dp"
+	        android:layout_margin="10dp"
+	        android:textSize="50sp"
+	        android:textStyle="bold"
+	        android:includeFontPadding="false" />
+		<Button
+	        android:id="@+id/button01"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:width="70dp"
+	        android:height="70dp"
+	        android:padding="10dp"
+	        android:layout_margin="10dp"
+	        android:textSize="50sp"
+	        android:textStyle="bold"
+	        android:includeFontPadding="false" />
+    	<Button
+	        android:id="@+id/button02"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:width="70dp"
+	        android:height="70dp"
+	        android:padding="10dp"
+	        android:layout_margin="10dp"
+	        android:textSize="50sp"
+	        android:textStyle="bold"
+	        android:includeFontPadding="false" />
+	</TableRow>
+
+	<TableRow android:id="@+id/TableRow02"
+			android:layout_width="fill_parent"
+	        android:layout_height="fill_parent" >
+	
+	    <Button
+	        android:id="@+id/button10"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:width="70dp"
+	        android:height="70dp"
+	        android:padding="10dp"
+	        android:layout_margin="10dp"
+	        android:textSize="50sp"
+	        android:textStyle="bold"
+	        android:includeFontPadding="false" />
+	    <Button
+	        android:id="@+id/button11"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:width="70dp"
+	        android:height="70dp"
+	        android:padding="10dp"
+	        android:layout_margin="10dp"
+	        android:textSize="50sp"
+	        android:textStyle="bold"
+	        android:includeFontPadding="false" />
+	    <Button
+	        android:id="@+id/button12"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:width="70dp"
+	        android:height="70dp"
+	        android:padding="10dp"
+	        android:layout_margin="10dp"
+	        android:textSize="50sp"
+	        android:textStyle="bold"
+	        android:includeFontPadding="false" />
+	</TableRow>
+
+	<TableRow android:id="@+id/TableRow03"
+			android:layout_width="fill_parent"
+	        android:layout_height="fill_parent" >
+	    <Button
+	        android:id="@+id/button20"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:width="70dp"
+	        android:height="70dp"
+	        android:padding="10dp"
+	        android:layout_margin="10dp"
+	        android:textSize="50sp"
+	        android:textStyle="bold"
+	        android:includeFontPadding="false" />
+	    <Button
+	        android:id="@+id/button21"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:width="70dp"
+	        android:height="70dp"
+	        android:padding="10dp"
+	        android:layout_margin="10dp"
+	        android:textSize="50sp"
+	        android:textStyle="bold"
+	        android:includeFontPadding="false" />
+	    <Button
+	        android:id="@+id/button22"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:width="70dp"
+	        android:height="70dp"
+	        android:padding="10dp"
+	        android:layout_margin="10dp"
+	        android:textSize="50sp"
+	        android:textStyle="bold"
+	        android:includeFontPadding="false" />
+	</TableRow>
+</TableLayout>
+
