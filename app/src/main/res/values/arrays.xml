@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string-array name="difficulty_levels">
+		<item>Very easy</item>
+		<item>Normal</item>
+		<item>Unbeatable</item>
+	</string-array>
+	
+	<string-array name="difficulty_levels_values">
+		<item>muyfacil</item>
+		<item>normal</item>
+		<item>imbatible</item>
+	</string-array>
+	
+	<string-array name="game_modes">
+		<item>VS player</item>
+		<item>VS android</item>
+	</string-array>
+	
+	<string-array name="game_modes_values">
+		<item>vsplayer</item>
+		<item>vsandroid</item>
+	</string-array>
+	
+	<string-array name="game_types">
+		<item>Blind</item>
+		<item>Normal</item>
+	</string-array>
+	
+	<string-array name="game_types_values">
+		<item>blind</item>
+		<item>normal</item>
+	</string-array>
+	
+	<string-array name="game_sound">
+		<item>Play on click</item>
+		<item>Keep silence</item>
+	</string-array>
+	
+	<string-array name="game_sound_values">
+		<item>playonclick</item>
+		<item>keepsilence</item>
+	</string-array>
+	
+	<string-array name="game_vibration">
+		<item>Vibrate</item>
+		<item>Don\'t move</item>
+	</string-array>
+	
+	<string-array name="game_vibration_values">
+		<item>vibrate</item>
+		<item>dontmove</item>
+	</string-array>
+	
+</resources>
