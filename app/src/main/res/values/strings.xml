@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic tac Droid</string>
+    <string name="title_configuration">Tic tac Droid</string>
+    <string name="summary_difficulty">Choose difficulty level</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="title_difficulty">Difficulty</string>
+    <string name="title_game_mode">Game mode</string>
+    <string name="title_game_type">Game type</string>
+    <string name="game">Game</string>
+    <string name="summary_game_mode">Choose game mode</string>
+    <string name="summary_game_type">Choose game type</string>
+    <string name="game_mode">VS mode</string>
+    <string name="game_type">Game type</string>
+    <string name="wargame_advice">Strange game. The only winning move is not to play</string>
+    <string name="o_wins">O wins</string>
+    <string name="x_wins">X wins</string>
+    <string name="draw_game">Draw</string>
+    <string name="gamemode_not_valid">VS mode not valid</string>
+    <string name="gametype_not_valid">Game type not valid</string>
+    <string name="difficulty_level_not_valid">Difficulty level not valid</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_normal">Normal</string>
+    <string name="difficulty_unbeatable">Unbeatable</string>
+    <string name="gamemode_vs_android">VS android</string>
+    <string name="gamemode_vs_player">VS player</string>
+    <string name="gametype_blind">Blind</string>
+    <string name="gametype_normal">Normal</string>
+    <string name="summary_game_sound">Sound options</string>
+    <string name="game_sound">Sound</string>
+    <string name="title_sound">Sound</string>
+    <string name="summary_game_vibration">Vibration options</string>
+    <string name="game_vibration">Vibration</string>
+    <string name="title_vibration">Vibration</string>
+    <string name="sound_option_silence">Keep silence</string>
+    <string name="sound_option_play_on_click">Play on click</string>
+    <string name="vibration_option_dont_move">Don\'t move</string>
+    <string name="vibration_option_vibrate">Vibrate</string>
+    <string name="sound_mode_not_valid">Sound mode not valid</string>
+    <string name="vibration_mode_not_valid">Vibration mode not valid</string>
+    <string name="menu_preferences">Menu</string>
+    <string name="menu_restart">Restart</string>
+    <string name="menu_about">About...</string>
+    <string name="dialog_about_title">About...</string>
+    <string name="dialog_about_author_line">Author:</string>
+    <string name="dialog_about_email_line">Email:</string>
+    <string name="dialog_about_license_line">License:</string>
+    <string name="dialog_about_version_line">Version:</string>
+    <string name="dialog_about_button_close">Close</string>
+    <string name="dialog_about_button_download_source">Download source</string>
+    <string name="dialog_advice_title">Configuration</string>
+    <string name="dialog_advice_message">Use the menu button to change game configuration.</string>
+    <string name="dialog_advice_button_close">Close</string>
+    <string name="dialog_advice_button_dont_show">Don\'t show again</string>
+    <string name="banner_ad_unit_id" translatable="false"></string>
+</resources>
