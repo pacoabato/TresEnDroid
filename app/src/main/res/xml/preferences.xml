@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen 
+	xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/game">
+        <ListPreference
+        		android:summary="@string/summary_difficulty"
+                android:title="@string/difficulty"
+                android:key="difficulty_preferences"
+                android:entries="@array/difficulty_levels"
+                android:entryValues="@array/difficulty_levels_values"
+                android:dialogTitle="@string/title_difficulty" />
+        <ListPreference
+        		android:summary="@string/summary_game_mode"
+                android:title="@string/game_mode"
+                android:key="game_modes_preferences"
+                android:entries="@array/game_modes"
+                android:entryValues="@array/game_modes_values"
+                android:dialogTitle="@string/title_game_mode" />
+        <ListPreference
+        		android:summary="@string/summary_game_type"
+                android:title="@string/game_type"
+                android:key="game_types_preferences"
+                android:entries="@array/game_types"
+                android:entryValues="@array/game_types_values"
+                android:dialogTitle="@string/title_game_type" />
+		<ListPreference
+        		android:summary="@string/summary_game_sound"
+                android:title="@string/game_sound"
+                android:key="game_sound_preferences"
+                android:entries="@array/game_sound"
+                android:entryValues="@array/game_sound_values"
+                android:dialogTitle="@string/title_sound" />
+        <ListPreference
+        		android:summary="@string/summary_game_vibration"
+                android:title="@string/game_vibration"
+                android:key="game_vibration_preferences"
+                android:entries="@array/game_vibration"
+                android:entryValues="@array/game_vibration_values"
+                android:dialogTitle="@string/title_vibration" />
+     </PreferenceCategory>
+</PreferenceScreen>
